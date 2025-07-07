@@ -60,7 +60,7 @@ The entire pipeline is saved as `diabetes_model_pipeline.pkl`, ensuring consiste
 ---
 
 ## 📁 Project Structure
-
+```
 📦 diabetes-prediction-app/
 ├── app.py # Streamlit frontend
 ├── diabetes_model_pipeline.pkl # Trained ML pipeline
@@ -68,6 +68,7 @@ The entire pipeline is saved as `diabetes_model_pipeline.pkl`, ensuring consiste
 ├── requirements.txt # Dependencies for deployment
 ├── main.ipynb # Model training and selection notebook
 └── README.md # This file
+```
 
 ---
 
